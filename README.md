@@ -1,4 +1,4 @@
-## 爱部落 ##
+## vue-template-mobile ##
 
 #### Build Setup
 

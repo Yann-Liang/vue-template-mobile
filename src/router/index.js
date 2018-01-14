@@ -11,7 +11,7 @@ import Redirect from './map/Redirect'
 Vue.use(Router)
 
 export default new Router({
-    //mode: 'history',
+    mode: 'history',//开启history有利于SEO
     routes: [
         Index,//主页
         Redirect, //路由重定向(访问不存在的页面时，重定向到这个页面) 放最后面

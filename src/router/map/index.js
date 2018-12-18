@@ -1,5 +1,5 @@
 //home组件
-const Home = resolve => require(['@/components/Home/Home.vue'], resolve)
+const Home = resolve => require(['@/components/home/home.vue'], resolve)
 const Index = resolve => require(['@/views/index/index.vue'], resolve)
 
 export default {

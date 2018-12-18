@@ -11,7 +11,7 @@
 </template>
 
 <script>
-    import comHeader from '@/components/Header/Header.vue'
+    import comHeader from '@/components/header/header.vue'
     import ApiService from '@/services/API-servies'
     import { mapState, mapActions, mapGetters } from 'vuex'
 

@@ -1,6 +1,10 @@
-## vue-template-mobile ##
+# vue-template-mobile
 
-#### Build Setup
+## 分支说明
+
+> vux分支：支持vux
+
+## Build Setup
 
 ``` bash
 # install dependencies
